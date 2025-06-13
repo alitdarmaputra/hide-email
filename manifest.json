@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Hide Email",
+  "description": "Censors or hides email addresses on Gmail web interface for privacy or focus.",
+  "version": "1.0.0",
+  "content_scripts": [
+    {
+      "js": [
+        "scripts/hide-email.js"
+      ],
+      "matches": [
+        "https://mail.google.com/*"
+      ]
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
