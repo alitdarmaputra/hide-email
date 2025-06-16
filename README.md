@@ -1,12 +1,12 @@
 # Hide Email
 
-A simple Chrome extension to censor or hide email addresses on the Gmail web interface. The purpose of this extension is to provide privacy for email sender addresses (e.g., when the recipient wants to take a screenshot and share the email publicly).
+A simple Chrome extension to censor or hide email addresses on the Gmail web interface. The purpose of this extension is to provide privacy for email sender (e.g., when the recipient wants to take a screenshot and share the email content publicly).
 
 ## Installation
 
 This extension is not publicly published, so users who want to try must install it manually.
 
-1. **Download** the latest release of the extension from the [Releases section](#) (or the provided zip file).
+1. **Download** the latest release of the extension from the [Releases section](https://github.com/alitdarmaputra/hide-email/releases) (or the provided zip file).
 2. **Extract** the downloaded ZIP file to a folder on your computer.
 3. Open Chrome
 4. Go to: <a>chrome://extensions/</a>
